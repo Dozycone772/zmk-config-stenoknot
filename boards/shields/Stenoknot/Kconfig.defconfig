@@ -1,0 +1,6 @@
+if SHIELD_ZMKM0116
+
+config ZMK_KEYBOARD_NAME
+	default "NNM0116"
+
+endif
